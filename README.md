@@ -74,6 +74,12 @@ data.
 
 ## OSS Notice
 
+This Software is Copyright (c) 2018 Onycom, Inc. All rights reserved.
+
+This Software use Open Source Software (OSS). You can find the source code of these open source projects, along with applicable license infomation, below. We are deeply grateful to these developers for their work and contributions. 
+
+Any questions about our use of licensed work can be sent to support@imqa.io 
+
 #### KSCrash 
 
 Copyright (c) 2012 Karl Stenerud

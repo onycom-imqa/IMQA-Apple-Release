@@ -5,7 +5,7 @@
   
 </p>
 
-# IMQA Cocoa Release
+# IMQA Cocoa Release Center
 
 
 | Product Name   | LTS Version | Latest Version |

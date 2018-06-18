@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IMQACrashAgent'
-  s.version          = '1.0.1'
+  s.version          = '1.0.0'
   s.summary          = 'Crash Report SDK for iOS by IMQA'
 
 # This description is used to generate tags and improve search results.
@@ -36,7 +36,6 @@ Pod::Spec.new do |s|
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  s.frameworks = 'Foundation', 'SystemConfiguration'
-  s.libraries = 'c++', 'z'
+  s.frameworks = 'Foundation', 'SystemConfiguration', 'UIKit', 'MessageUI'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

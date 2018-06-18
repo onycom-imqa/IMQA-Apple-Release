@@ -72,9 +72,9 @@ use of these files, you are solely responsible for such use. Onycom will have no
 for direct, indirect, consequential, incidental, special, or punitive damages or for lost profits or
 data.
 
-## OSS
+## OSS Notice
 
-### KSCrash 
+#### KSCrash 
 
 Copyright (c) 2012 Karl Stenerud
 
@@ -84,7 +84,7 @@ The above copyright notice and this permission notice shall be included in the d
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-### Bugsnag 
+#### Bugsnag 
 
 Copyright (c) 2012 Bugsnag, https://bugsnag.com/
 

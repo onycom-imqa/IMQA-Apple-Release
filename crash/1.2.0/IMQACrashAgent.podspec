@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'http://imqa.io/'
   s.license          = { :type => 'Commercial', :file => 'IMQACrashAgent/LICENSE' }
   s.author           = { 'Onycom, Inc.' => 'support@imqa.io' }
-  s.source           = { :http  => "https://github.com/onycom-imqa/IMQA-Crash-Cocoa-Release/releases/download/18.6.11/IMQACrashAgent.zip" }
+  s.source           = { :http  => "https://github.com/onycom-imqa/IMQA-Cocoa-Release/releases/download/crash_1.2.0/IMQACrashAgent.zip" }
 
   s.ios.deployment_target = '9.0'
 

@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IMQACrashAgent'
-  s.version          = '1.3.8'
+  s.version          = '1.3.9'
   s.summary          = 'Crash Report SDK for iOS by IMQA'
 
   s.description      = 'This Framework is Crash Report SDK for iOS by IMQA'
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'http://imqa.io/'
   s.license          = { :type => 'Commercial', :file => 'IMQACrashAgent/LICENSE' }
   s.author           = { 'Onycom, Inc.' => 'support@imqa.io' }
-  s.source           = { :http  => "https://github.com/onycom-imqa/IMQA-Cocoa-Release/releases/download/crash_1.3.8/IMQACrashAgent.zip" }
+  s.source           = { :http  => "https://github.com/onycom-imqa/IMQA-Cocoa-Release/releases/download/crash_1.3.9/IMQACrashAgent.zip" }
 
   s.ios.deployment_target = '9.0'
 

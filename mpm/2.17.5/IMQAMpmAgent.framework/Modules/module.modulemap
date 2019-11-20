@@ -1,0 +1,11 @@
+framework module IMQAMpmAgent {
+  umbrella header "IMQAMpmAgent.h"
+
+  export *
+  module * { export * }
+}
+
+module IMQAMpmAgent.Swift {
+    header "IMQAMpmAgent-Swift.h"
+    requires objc
+}

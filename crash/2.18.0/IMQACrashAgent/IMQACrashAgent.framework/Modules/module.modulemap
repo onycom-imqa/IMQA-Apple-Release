@@ -1,0 +1,6 @@
+framework module IMQACrashAgent {
+  umbrella header "IMQACrashAgent.h"
+
+  export *
+  module * { export * }
+}
